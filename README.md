@@ -1,6 +1,8 @@
 # Monitor AS
 This project is a simple script in bash designed to monitor the prefixes announced by an ASN, using the RIPE database and its collectors.
 
+It's simple, basic, and it works. Nothing more.
+
 It is currently set up to notify changes via Telegram bot, but feel free to modify it to suit your alert system.
 
 
