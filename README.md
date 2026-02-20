@@ -18,3 +18,6 @@ crontab -e
 
 0 * * * * /bin/bash /user/path/monitor_asn.sh >> /var/log/monitor_asn.log
 ```
+
+## Recomendations
+For a more professional tool, check out: https://github.com/nttgin/BGPalerter
